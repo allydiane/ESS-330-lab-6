@@ -3,7 +3,7 @@ title: "Lab 6"
 subtitle: 'ESS 330'
 author: 
   - name: Ally Lewis
-  email: "adlewis1@colostate.edu"
+    email: "adlewis1@colostate.edu"
 format: 
   html: 
     self-contained: true
